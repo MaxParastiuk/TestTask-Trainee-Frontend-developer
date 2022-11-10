@@ -1,7 +1,5 @@
-import React from "react";
 import VacancyList from "./components/VacancyList";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import logo from "./logo.svg";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Vacancy from "./components/Vacancy";
 
 function App() {
