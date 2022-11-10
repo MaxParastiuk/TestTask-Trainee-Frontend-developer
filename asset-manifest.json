@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.ee8fe750.css",
-    "main.js": "/static/js/main.f932913b.js",
-    "static/media/Share.svg": "/static/media/Share.7381a5999554764f3ce8249d49192539.svg",
-    "index.html": "/index.html",
-    "static/media/Arrow.svg": "/static/media/Arrow.e3f3af7964e1cabfb20bfd4d9d96ee9d.svg",
-    "static/media/locationIcon.svg": "/static/media/locationIcon.1c093ca173a538132f1ce31ab6296061.svg",
-    "main.ee8fe750.css.map": "/static/css/main.ee8fe750.css.map",
-    "main.f932913b.js.map": "/static/js/main.f932913b.js.map"
+    "main.css": "/TestTask-Trainee-Frontend-developer/static/css/main.ee8fe750.css",
+    "main.js": "/TestTask-Trainee-Frontend-developer/static/js/main.6fcdc699.js",
+    "index.html": "/TestTask-Trainee-Frontend-developer/index.html",
+    "static/media/Share.svg": "/TestTask-Trainee-Frontend-developer/static/media/Share.7381a5999554764f3ce8249d49192539.svg",
+    "static/media/Arrow.svg": "/TestTask-Trainee-Frontend-developer/static/media/Arrow.e3f3af7964e1cabfb20bfd4d9d96ee9d.svg",
+    "static/media/locationIcon.svg": "/TestTask-Trainee-Frontend-developer/static/media/locationIcon.1c093ca173a538132f1ce31ab6296061.svg",
+    "main.ee8fe750.css.map": "/TestTask-Trainee-Frontend-developer/static/css/main.ee8fe750.css.map",
+    "main.6fcdc699.js.map": "/TestTask-Trainee-Frontend-developer/static/js/main.6fcdc699.js.map"
   },
   "entrypoints": [
     "static/css/main.ee8fe750.css",
-    "static/js/main.f932913b.js"
+    "static/js/main.6fcdc699.js"
   ]
 }
